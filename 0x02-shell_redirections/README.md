@@ -6,7 +6,7 @@
 3. what about two -> a script that displays the contents of two files
 4. File 4-lastlines displays the last 10 lines of /etc/passwd.
 
-File 5-firstlines displays the first 10 lines of /etc/passwd.
+5. File 5-firstlines displays the first 10 lines of /etc/passwd.
 
 File 6-third_line is a script that displays the third line of the file iacta.
 
